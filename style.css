@@ -37,4 +37,12 @@ button:active {
     transform: scale(0.95);
     box-shadow: 0 2px 4px rgba(204, 43, 43, 0.6);
 }
-   
+.styled-box {
+    background-color: #1d72b7;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
